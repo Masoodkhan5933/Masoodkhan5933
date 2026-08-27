@@ -121,7 +121,7 @@
 ## 🚀 Featured Projects
 
 ### 📱 Mobile Applications
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a href="https://github.com/Masoodkhan5933/WHEELHUB" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Masoodkhan5933&repo=WHEELHUB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -130,10 +130,10 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> -->
 
 ### 🌐 Web Applications
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a href="https://github.com/Masoodkhan5933/Web_Application" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Masoodkhan5933&repo=Web_Application&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -142,10 +142,10 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> -->
 
 ### 🔧 System Applications
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a href="https://github.com/Masoodkhan5933/SMART-ORDERING-SYSTEM-" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Masoodkhan5933&repo=SMART-ORDERING-SYSTEM-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -154,10 +154,10 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> -->
 
 ### 🤖 AI & Machine Learning
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a href="https://github.com/Masoodkhan5933/Object_Detection_Python" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Masoodkhan5933&repo=Object_Detection_Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -166,10 +166,10 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> -->
 
 ### 🎨 Portfolio & Personal Projects
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a href="https://github.com/Masoodkhan5933/portfolioWeb" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Masoodkhan5933&repo=portfolioWeb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -178,17 +178,17 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> -->
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Masoodkhan5933&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ## 📈 Activity Graph
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masoodkhan5933&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+</div> -->
 
 ## 💝 Support My Work
 <div align="center">
